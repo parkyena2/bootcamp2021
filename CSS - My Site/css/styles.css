@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514e;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625em;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: 10px dotted;
+  color: #eaf6f6;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999e;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px;
+  color: #eaf6f6;
+}
+
+.gamer {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.profile {
+  width: 25%;
+  margin: auto;
+}
+
+.winter {
+  width: 60%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.nimble {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.nina {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #537979);
+  background-image: -moz-linear-gradient(top, #66bfbf, #537979);
+  background-image: -ms-linear-gradient(top, #66bfbf, #537979);
+  background-image: -o-linear-gradient(top, #66bfbf, #537979);
+  background-image: -webkit-gradient(to bottom, #66bfbf, #537979);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  height: 30px;
+  line-height: 30px;
+  color: #ffffff;
+  font-family: Arial;
+  width: 150px;
+  font-size: 17px;
+  font-weight: 100;
+  padding: 5px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #11999e;
+  text-decoration: none;
+  margin: auto 20px;
+}
